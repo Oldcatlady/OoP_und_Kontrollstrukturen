@@ -1,0 +1,107 @@
+
+[
+{
+  "question": "Was bedeutet die Abkürzung OOP?",
+  "answer": "Objektorientierte Programmierung."
+},
+{
+  "question": "Was ist objektorientierte Programmierung?",
+  "answer": "Ein Programmierparadigma, das Daten und Funktionen in Objekten (Instanzen von Klassen) zusammenfasst."
+},
+{
+  "question": "Auf welchen grundlegenden Konzepten basiert die objektorientierte Programmierung?",
+  "answer": "Klassen/Objekte, Kapselung, Vererbung, Polymorphie und Abstraktion."
+},
+{
+  "question": "Welche Bedeutung haben Klassen und Objekte in der objektorientierten Programmierung?",
+  "answer": "Klassen definieren die Struktur, Objekte sind die konkreten, zur Laufzeit existierenden Instanzen davon."
+},
+{
+  "question": "Was ist der Unterschied zwischen einer Klasse und einem Objekt?",
+  "answer": "Die Klasse ist der Bauplan, das Objekt die konkrete Ausprägung mit tatsächlichen Werten."
+},
+{
+  "question": "Welche Vorteile bietet objektorientierte Programmierung?",
+  "answer": "Bessere Strukturierung, Wiederverwendbarkeit, Wartbarkeit, Kapselung der Daten und einfachere Erweiterbarkeit."
+},
+{
+  "question": "Was bedeutet Abstraktion in der objektorientierten Programmierung?",
+  "answer": "Das Reduzieren auf die für die Anwendung wesentlichen Eigenschaften, unter Ausblendung unwichtiger Details."
+},
+{
+  "question": "Was bedeutet Kapselung in der objektorientierten Programmierung?",
+  "answer": "Das Verbergen der internen Daten einer Klasse und der kontrollierte Zugriff über definierte Schnittstellen (Methoden)."
+},
+{
+  "question": "Was bedeutet Vererbung in der objektorientierten Programmierung?",
+  "answer": "Eine Klasse übernimmt Attribute und Methoden einer anderen Klasse und kann sie erweitern."
+},
+{
+  "question": "Was bedeutet Polymorphie in der objektorientierten Programmierung?",
+  "answer": "Dasselbe Methodenaufruf-Interface kann bei verschiedenen Objekten (Klassen) zu unterschiedlichem Verhalten führen."
+},
+{
+  "question": "Was ist eine Kontrollstruktur?",
+  "answer": "Ein Sprachkonstrukt, das die Reihenfolge der Ausführung von Programmanweisungen steuert."
+},
+{
+  "question": "Welche drei grundlegenden Arten von Kontrollstrukturen gibt es?",
+  "answer": "Sequenz, Verzweigung (Selektion) und Schleife (Iteration)."
+},
+{
+  "question": "Was ist eine Sequenz?",
+  "answer": "Eine Folge von Anweisungen, die nacheinander (von oben nach unten) ausgeführt werden."
+},
+{
+  "question": "Wie wird eine Sequenz bei der Programmausführung abgearbeitet?",
+  "answer": "Anweisung für Anweisung, in der im Quelltext angegebenen Reihenfolge, ohne Sprünge."
+},
+{
+  "question": "Was bedeutet „Abarbeitung von oben nach unten“ bei einer Sequenz?",
+  "answer": "Jede Anweisung wird genau einmal, in der geschriebenen Reihenfolge, ausgeführt."
+},
+{
+  "question": "Was ist eine Verzweigung beziehungsweise Selektion?",
+  "answer": "Eine Kontrollstruktur, bei der abhängig von einer Bedingung einer von mehreren Programmpfaden ausgeführt wird."
+},
+{
+  "question": "Wozu dient eine Verzweigung?",
+  "answer": "Um je nach Bedingung unterschiedliche Anweisungen auszuführen."
+},
+{
+  "question": "Welche Java-Anweisung wird typischerweise für eine Verzweigung verwendet?",
+  "answer": "if / else (bzw. switch-case)."
+},
+{
+  "question": "Was ist eine Schleife beziehungsweise Iteration?",
+  "answer": "Eine Kontrollstruktur, bei der ein Anweisungsblock wiederholt ausgeführt wird, solange eine Bedingung erfüllt ist."
+},
+{
+  "question": "Wozu dient eine Schleife?",
+  "answer": "Um Anweisungen mehrfach zu wiederholen, ohne sie mehrfach zu schreiben."
+},
+{
+  "question": "Welche Java-Anweisungen können zur Realisierung einer Schleife verwendet werden?",
+  "answer": "for, while, do-while."
+},
+{
+  "question": "Welche drei Kontrollstrukturen müssen in der strukturierten Programmierung unterschieden werden?",
+  "answer": "Sequenz, Verzweigung, Schleife."
+},
+{
+  "question": "Was ist der Unterschied zwischen Sequenz, Verzweigung und Schleife?",
+  "answer": "Sequenz führt Anweisungen einmal nacheinander aus, Verzweigung wählt bedingt einen Pfad, Schleife wiederholt Anweisungen bedingt."
+},
+{
+  "question": "Welche Kontrollstruktur wird verwendet, wenn Anweisungen nacheinander ausgeführt werden?",
+  "answer": "Die Sequenz."
+},
+{
+  "question": "Welche Kontrollstruktur wird verwendet, wenn abhängig von einer Bedingung unterschiedliche Anweisungen ausgeführt werden?",
+  "answer": "Die Verzweigung (Selektion)."
+},
+{
+  "question": "Welche Kontrollstruktur wird verwendet, wenn Anweisungen wiederholt ausgeführt werden?",
+  "answer": "Die Schleife (Iteration)."
+}
+]
